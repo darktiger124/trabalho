@@ -1,0 +1,29 @@
+
+.Buttons{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+.Imagens{
+
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+button{
+    height: 100px;
+    width: 200px;
+    background-color: blueviolet;
+    color: aliceblue;
+    font-size: large;
+}
+
+body{
+    background-image: linear-gradient(180deg, rgb(94, 33, 145), rgb(172, 122, 219), rgb(92, 36, 117)) ;
+    background-attachment: fixed;
+    text-align: center;
+}
